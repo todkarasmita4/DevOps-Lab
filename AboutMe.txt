@@ -75,7 +75,7 @@
 
     <div class="card">
         <!-- Replace src with your image -->
-        <img src="https://via.placeholder.com/150" alt="Profile Photo" class="profile-pic">
+        <img src="https://fcrit.ac.in/cdn/front/img1.jpg">
 
         <h1>Asmita Todkar</h1>
         <h3>Student | Developer | Creator</h3>
